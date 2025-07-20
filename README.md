@@ -1,4 +1,6 @@
-# 💫 About Me
+<h1 align="center">Hi 👋, I'm Dhruv Bhardwaj</h1>
+
+## 💫 About Me
 - 🔭 I’m currently refining my **Data Structures and Algorithms**
 - 🌱 Exploring **Data Science & XR technologies**
 - 🤝 Open to collaborating on **XR, ML, and Web Dev** projects
@@ -9,10 +11,13 @@
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_d.bhardwaj18) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-bhardwaj-a422481b1) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/d3bhardwaj) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d3bhardwaj@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/dhruv-bhardwaj-a422481b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="D18hr-uv" height="30" width="40" /></a>
+<a href="https://x.com/d3bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="D18hr-uv" height="30" width="40" /></a>
+<a href="mailto:d3bhardwaj@gmail.com" target="blank"><img align="center" src="alternate_email_24dp_E3E3E3.svg" alt="D18hr-uv" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/d3bhardwaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="D18hr-uv" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_d.bhardwaj18" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="@D18hr-uv" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -34,12 +39,24 @@
 <details>
   <summary>🌐 Web & Backend</summary>
 
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+  
+  
+</details>
+
+<details>
+  <summary>⛃ DataBases</summary>
+
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
 </details>
 
 <details>
@@ -57,9 +74,18 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=D18hr-uv&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=D18hr-uv&theme=great-gatsby&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=D18hr-uv&theme=great-gatsby&hide_border=false&layout=compact)
+<h3 align="left">Stars</h3>
+<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D18hr-uv&layout=compact&theme=radical" alt=D18hr-uv /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=D18hr-uv&show_icons=true&locale=en&theme=radical" alt="D18hr-uv" /></p>
+
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=D18hr-uv&theme=radical" alt="D18hr-uv" /></p>
+
+
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=D18hr-uv&theme=github-compact"/>
+
 
 ---
 
