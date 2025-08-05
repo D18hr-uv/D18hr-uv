@@ -79,11 +79,11 @@
 
 <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=D18hr-uv&show_icons=true&locale=en&theme=radical" alt="D18hr-uv" /></p>
 
+<!-- 
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=D18hr-uv&theme=radical" alt="D18hr-uv" /></p> -->
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=D18hr-uv&theme=radical" alt="D18hr-uv" /></p>
 
-
-<h2 align="left">⚡Activity Graph:</h2>
+<h2 align="left">⚡GitHub Activity:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=D18hr-uv&theme=github-compact"/>
 
 
